@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
 }
-.box{
+.box {
   width: 100%;
   display: flex;
   justify-content: space-around;
@@ -67,7 +67,7 @@
   /* background-color: #8e44ad; */
   border: 2px solid #8e44ad;
 }
-.start_select{
+.start_select {
   background-color: #8e44ad;
 }
 .description_user {

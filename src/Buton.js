@@ -6,7 +6,6 @@ function Buton(props) {
     }else{
         return <div className="buton">{props.text}</div>
     }
-
 }
 
 export default Buton;
